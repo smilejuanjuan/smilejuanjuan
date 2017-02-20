@@ -1,0 +1,10 @@
+.ico{
+	position: fixed;
+	width: 34px;
+	height:36px;
+} 
+.ico_back{
+	right: 0;
+	bottom: 248px;
+	background: #999999;
+}
